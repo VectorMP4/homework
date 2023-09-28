@@ -1,0 +1,22 @@
+table
+{
+        margin: auto;
+        width: 500px;
+}
+
+table,th,td
+{
+        border: 2px solid;
+        border-collapse: separate;
+        text-align: center;
+}
+
+table
+{
+        border-style: outset;
+}
+
+th,td
+{
+        border-style: inset;
+}
